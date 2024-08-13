@@ -1,0 +1,52 @@
+﻿Codigos que eu aprendi 
+----------------------
+
+console.? = o consoe sempre vem na hora de abrir o codigo;
+
+console.write("alguma coisa")  = serve com caixa de texto;
+
+console.writeLine("alguma coisa")  = serve com caixa de texto e quebra a linha;
+
+console.read() = quando enter for presionado ele confirmara;
+
+console.readkey()  = confirma quando qualquer tecla for teclada;
+
+				---	09/08 ---
+
+(parse) funciona como um conversor de string.
+
+				---	13/08 ---
+
+if (R > 10) /* A condição IF é usada para analisar se a variavel R é maior que 10, caso seja ela continuara a condição
+                         * se não vai apenas para (caso o if tiver apenas uma condição voce nao tem a obrigatoriedade de usar chaves),
+                           agora com else que seja o caso a primeira condição não seja aceita */
+
+switch (MES) /* aqui esta sendo usado switch que seria o mesmo
+                          * que usar casos, escolhido pelo numero do mes 
+                          se o numero do mes não estiver correto ele sera o
+                default que dara como mes invalido*/
+            {
+                case 1: Console.WriteLine("Janeiro"); break;
+                case 2: Console.WriteLine("Fevereiro"); break;
+                default: Console.WriteLine("Mes invalido"); break;
+            }
+
+&& = e
+|| = ou
+!= = diferente
+! = não
+= = atribuição
+== = comparação
+> = maior
+< menor
+>= = maior ou igual
+<= = menor ou igual
+^ = se o primeiro for real o segundo é fake
+
+
+    if (MES == 1) /* caso esse seja true ele vai executar o comando */
+                Console.WriteLine("Janeiro");
+            else if (MES == 2) /* caso o resultado de cima nao seja true ele executara este, mas se não ele ira para proxima */
+                Console.WriteLine("Feveiro");
+            else
+                Console.WriteLine("Mes invalido");
