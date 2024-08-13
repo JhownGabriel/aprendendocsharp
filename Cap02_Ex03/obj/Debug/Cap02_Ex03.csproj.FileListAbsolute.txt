@@ -1,0 +1,7 @@
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\bin\Debug\Cap02_Ex03.exe.config
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\bin\Debug\Cap02_Ex03.exe
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\bin\Debug\Cap02_Ex03.pdb
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\obj\Debug\Cap02_Ex03.csproj.AssemblyReference.cache
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\obj\Debug\Cap02_Ex03.csproj.CoreCompileInputs.cache
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\obj\Debug\Cap02_Ex03.exe
+C:\Users\joao.gcnascimento\source\repos\aprendendocsharp\Cap02_Ex03\obj\Debug\Cap02_Ex03.pdb
